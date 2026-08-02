@@ -435,6 +435,7 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 
 - [Good Job Descriptions](https://www.goodjobdescription.com/): good job descriptions from the most loved companies
 - [Hire people who give a shit](https://alexw.substack.com/p/hire)
+- [How to hire people who are better than you](https://longform.asmartbear.com/hire-better-than-you/), A Smart Bear
 
 ### Investor relations
 
